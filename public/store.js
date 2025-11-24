@@ -1,7 +1,7 @@
 // store.js
 
 // ❗ Ungal WhatsApp number & UPI ID inga change pannunga
-const whatsappNumber = "918608109013"; // 91 + un 10-digit number
+const whatsappNumber = "919999999999"; // 91 + un 10-digit number
 const upiId = "yourupiid@okbank";      // e.g. skcollection@okaxis
 const upiName = "SK Collection";
 
@@ -264,3 +264,4 @@ if (sortFilter) {
 }
 
 fetchProducts();
+
